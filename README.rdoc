@@ -1,0 +1,8 @@
+== Comparison of custom fields approaches
+
+This is an example project that compares two approaches to custom fields in Rails:
+
+- A traditional custom field table with key and value columns
+- A PostgreSQL hstore column
+
+Companion blog post[http://blog.artlogic.com/2012/09/13/custom-fields-in-rails/].
